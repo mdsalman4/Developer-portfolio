@@ -45,3 +45,30 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.kisu {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.experience-area {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#ma {
+    border-left: 7px solid tomato;
+}
+
+#baba {
+    border-left: 7px solid green;
+}
+
+footer {
+    text-align: center;
+}
