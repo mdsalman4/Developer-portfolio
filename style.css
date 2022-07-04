@@ -1,0 +1,40 @@
+body {
+    font-family: 'Anton', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.nam {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 40px;
+}
+
+.half-width img {
+    width: 80%;
+    padding-left: 100px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(yellow, rgb(71, 226, 94));
+    padding: 8px 30px;
+    color: rgb(82, 82, 226);
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.top-banner {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
